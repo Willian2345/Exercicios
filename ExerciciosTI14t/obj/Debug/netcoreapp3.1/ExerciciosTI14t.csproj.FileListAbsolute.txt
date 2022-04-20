@@ -1,0 +1,5 @@
+C:\Users\willian.cajunior\source\repos\ExerciciosTI14t\ExerciciosTI14t\obj\Debug\netcoreapp3.1\ExerciciosTI14t.csproj.AssemblyReference.cache
+C:\Users\willian.cajunior\source\repos\ExerciciosTI14t\ExerciciosTI14t\obj\Debug\netcoreapp3.1\ExerciciosTI14t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian.cajunior\source\repos\ExerciciosTI14t\ExerciciosTI14t\obj\Debug\netcoreapp3.1\ExerciciosTI14t.AssemblyInfoInputs.cache
+C:\Users\willian.cajunior\source\repos\ExerciciosTI14t\ExerciciosTI14t\obj\Debug\netcoreapp3.1\ExerciciosTI14t.AssemblyInfo.cs
+C:\Users\willian.cajunior\source\repos\ExerciciosTI14t\ExerciciosTI14t\obj\Debug\netcoreapp3.1\ExerciciosTI14t.csproj.CoreCompileInputs.cache
